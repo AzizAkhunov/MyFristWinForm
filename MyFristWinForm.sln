@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFristWinForm", "MyFristWinForm\MyFristWinForm.csproj", "{DBFFC87F-C0A4-4B73-A3D1-C60BA2D868AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBFFC87F-C0A4-4B73-A3D1-C60BA2D868AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFFC87F-C0A4-4B73-A3D1-C60BA2D868AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBFFC87F-C0A4-4B73-A3D1-C60BA2D868AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFFC87F-C0A4-4B73-A3D1-C60BA2D868AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0DFC1FB-2FF5-43E9-8F5F-F8DCCE14F8A0}
+	EndGlobalSection
+EndGlobal
